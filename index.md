@@ -17,7 +17,7 @@ Related projects:
 
 ## Design
 
-![Design](./design.png)
+![Design](./img/design.png)
 
 
 ## Incentives
