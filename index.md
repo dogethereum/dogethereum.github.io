@@ -1,5 +1,3 @@
-# Dogethereum
-
 Dogethereum is a project that enables sending coins from the Dogecoin blockchain to ethereum blockchain and back.
 
 Core components:
